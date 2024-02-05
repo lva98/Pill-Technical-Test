@@ -1,6 +1,6 @@
 ## Teste técnico Pill
 
-Esse é um projeto composto por dois sistemas `backend` e `frontend` que utilizam `http rest` para troca de mensagens. O `backend` é responsável por buscar um produto do banco de dados ou no site da drograria Drogasil. Já o `frontend` é composto por apenas uma página com as informações do produto desejado. O `backend` foi construído utilizando `Clean Architecture` baseado em alguns `Design Patters`, principalmente `Dependency Inversion`. Já o `frontend` busquei seguir as práticas que já seguia no `Vue`, segmentei os componentes de forma coerente e cliente `api rest` foi desaclopado da interface.
+Esse é um projeto composto por dois sistemas `backend` e `frontend` que utilizam `http rest` para troca de mensagens. O `backend` é responsável por buscar um produto do banco de dados ou no site da drograria Drogasil. Já o `frontend` é composto por apenas uma página com as informações do produto desejado. O `backend` foi construído utilizando `Clean Architecture` baseado em alguns `Design Patters`, principalmente `Dependency Inversion`. Já o `frontend` busquei seguir as práticas que já seguia no `Vue`, segmentei os componentes de forma coerente e implementei o cliente `api rest` desaclopado da interface.
 
 ## Como executar
 
