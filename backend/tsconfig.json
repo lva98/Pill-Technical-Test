@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "NodeNext",
+    "lib": ["ESNext", "DOM"],
+    "strict": true,
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "declaration": true,                                
+    "declarationMap": true,                             
+    "sourceMap": true,                                  
+    "outDir": "./build",                                 
+    "removeComments": true,                               
+    "declarationDir": "./build",                          
+    "experimentalDecorators": true,
+    "rootDir": "./src",
+  },
+  "exclude": ["**/node_modules"]
+}
